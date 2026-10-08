@@ -1,0 +1,8 @@
+{
+  "name": "AeroStay - Global Travel Booking & Property Management Platform",
+  "description": "Modern global travel booking and property management platform with real-time stays search, dynamic pricing, multi-step checkout, host inventory engine, and architectural blueprint.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
